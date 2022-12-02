@@ -19,7 +19,7 @@
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * **(x == 10)**
 
   * if x = 10 then {
 
@@ -27,11 +27,11 @@
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * **(x == 42)**
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * **Correct**
 
 
 3. Fix the error in the code below:
